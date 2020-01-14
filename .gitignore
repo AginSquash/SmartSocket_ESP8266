@@ -1,7 +1,7 @@
 user_data.py
 user_data.hpp
 *.DS_Store
-*__pycache__/*
+__pycache__/*
 ArduinoRelay/.pio/*
 ArduinoRelay/.vscode/*
 
