@@ -3,7 +3,7 @@
 
 
 ## Dependences:
-    ESP8266:
+    ESP8266 (place it in SmartLight/lib) :
     https://github.com/esp8266/Arduino
     https://github.com/marvinroger/async-mqtt-client
     https://github.com/me-no-dev/ESPAsyncTCP
